@@ -1,9 +1,9 @@
 "use strict";
-var sh = require('command_queue')();
+var sh = require('./command_queue')();
 var express = require('express');
 var socketio = require('socket.io');
 
-var log = require('log')('galileo_utils');
+var log = require('./log')('galileo_utils');
 
 module.exports = function() {
   function start_access_point(callback) {

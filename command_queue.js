@@ -2,7 +2,7 @@
 "use strict";
 var sys = require('sys');
 var exec = require('child_process').exec;
-var log = require('log')('Command Queue');
+var log = require('./log')('Command Queue');
 
 module.exports = function() {
     var queue = [];
