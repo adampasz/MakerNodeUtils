@@ -1,0 +1,27 @@
+{
+  "name": "MakerNodeUtils",
+  "version": "0.0.1",
+  "description": "Utilities for developing JavaScript apps. on the Intel Galileo",
+  "homepage": "https://github.com/adampasz/MakerNodeUtils",
+  "contributors": [
+    {
+      "name": "Adam Pasztory"
+    },
+    {
+      "name": "Noura Howell"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adampasz/MakerNodeUtils.git"
+  },
+  "dependencies": {
+    "cli-color": "~0.3.2",
+    "socket.io": "~1.0.6",
+    "express": "~4.8.3"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
