@@ -2,6 +2,14 @@
   "name": "mnutils",
   "version": "0.0.1",
   "description": "Utilities for developing JavaScript apps. on the Intel Galileo",
+  "author": "adampasz <adampasz@gmail.com>",
+  "contributors": [
+    {
+      "name": "Noura Howell",
+      "email": "noura.howell@gmail.com",
+      "url": "http://nourahowell.com"
+    }
+  ],
   "main": "galileo.js",
   "dependencies": {
     "cli-color": "~0.3.2",
@@ -14,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adampasz/MakerNodeUtils.git"
+    "url": "https://github.com/IntelOpenDesign/MakerNodeUtils.git"
   },
   "keywords": [
     "intel",
@@ -23,7 +31,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adampasz/MakerNodeUtils/issues"
+    "url": "https://github.com/IntelOpenDesign/MakerNodeUtils/issues"
   },
-  "homepage": "https://github.com/adampasz/MakerNodeUtils"
+  "homepage": "https://github.com/IntelOpenDesign/MakerNodeUtils"
 }
