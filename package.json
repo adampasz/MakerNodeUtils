@@ -1,5 +1,5 @@
 {
-  "name": "mnutils",
+  "name": "maker-node-utils",
   "version": "0.0.1",
   "description": "Utilities for developing JavaScript apps. on the Intel Galileo",
   "author": "adampasz <adampasz@gmail.com>",
